@@ -1,0 +1,8 @@
+﻿  Bilimsel Hesap Makinesi.c
+C:\Users\eksi2\source\repos\Bilimsel Hesap Makinesi\Bilimsel Hesap Makinesi.c(48,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\eksi2\source\repos\Bilimsel Hesap Makinesi\Bilimsel Hesap Makinesi.c(54,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\eksi2\source\repos\Bilimsel Hesap Makinesi\Bilimsel Hesap Makinesi.c(60,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\eksi2\source\repos\Bilimsel Hesap Makinesi\Bilimsel Hesap Makinesi.c(140,47): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\eksi2\source\repos\Bilimsel Hesap Makinesi\Bilimsel Hesap Makinesi.c(292,2): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\eksi2\source\repos\Bilimsel Hesap Makinesi\Bilimsel Hesap Makinesi.c(34,1): warning C4715: 'basitislem': not all control paths return a value
+  Bilimsel Hesap Makinesi.vcxproj -> C:\Users\eksi2\source\repos\Bilimsel Hesap Makinesi\x64\Debug\Bilimsel Hesap Makinesi.exe
